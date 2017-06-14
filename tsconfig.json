@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "experimentalDecorators": true
+  },
+  "compileOnSave": true,
+  "files": [
+    "./helloworld.ts"
+  ]
+}
